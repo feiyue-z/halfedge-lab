@@ -1,0 +1,5 @@
+/Users/feiyue/school_projects/2240/mesh-feiyue-z/build/build-mesh-feiyue-z-Qt_6_5_2_for_macOS-Debug/CMakeFiles/mesh.dir
+/Users/feiyue/school_projects/2240/mesh-feiyue-z/build/build-mesh-feiyue-z-Qt_6_5_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/feiyue/school_projects/2240/mesh-feiyue-z/build/build-mesh-feiyue-z-Qt_6_5_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/feiyue/school_projects/2240/mesh-feiyue-z/build/build-mesh-feiyue-z-Qt_6_5_2_for_macOS-Debug/CMakeFiles/mesh_autogen_timestamp_deps.dir
+/Users/feiyue/school_projects/2240/mesh-feiyue-z/build/build-mesh-feiyue-z-Qt_6_5_2_for_macOS-Debug/CMakeFiles/mesh_autogen.dir
